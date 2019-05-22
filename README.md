@@ -1,2 +1,2 @@
 # Surfing-web-page
-Surfing magazine web page wit interesting positioning.
+Surfing magazine web page with some interesting positioning work.
